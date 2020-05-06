@@ -1,4 +1,4 @@
-module gitlab.sarafann.com/kaizer/RedisLibrary
+module github.com/kaizer666/RedisLibrary
 
 go 1.13
 
